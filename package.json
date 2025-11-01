@@ -1,0 +1,27 @@
+{
+  "name": "visorax-web",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "axios": "^1.6.0",
+    "framer-motion": "^10.18.0",
+    "lucide-react": "^0.436.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-intersection-observer": "^9.4.3",
+    "react-router-dom": "^6.26.1"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.43",
+    "@types/react-dom": "^18.2.17",
+    "@vitejs/plugin-react": "^4.2.1",
+    "rollup-plugin-visualizer": "^6.0.5",
+    "vite": "^7.1.12"
+  }
+}
